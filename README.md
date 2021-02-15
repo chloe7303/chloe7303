@@ -9,6 +9,6 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chloe7303)](https://github.com/anuraghazra/github-readme-stats)
 
-[![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/default/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chloe7303&layout=compact&hide=html" alt="chloe7303" /></p>
 
-[![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/default/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chloe7303&show_icons=true" alt="chloe7303" /></p>
