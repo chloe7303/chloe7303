@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Chloe</h1>
 <h3 align="center">A passionate frontend developer from Taipei</h3>
 
-- 📫 How to reach me **U10517004@go.utaipei.edu.tw**
+- 📫 How to reach me **chloehuang170@gmail.com**
 
 
 <h3 align="left">Languages and Tools:</h3>
